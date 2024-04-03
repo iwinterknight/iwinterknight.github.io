@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Sunit.png"
   name             : "Sunit Singh"
   pronouns         : "he/him"  
   bio              : "Machine Learning Engineer with 6 years of full time work experience in building and deploying reliable machine learning systems. Proficient in cloud-based ML systems such as dialogue agents and recommendation systems."
