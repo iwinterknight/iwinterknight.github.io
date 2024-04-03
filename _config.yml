@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Sunit Singh"
 title_separator          : "-"
-name                     : &name "Sunit Singh"
+name                     : "Sunit Singh"
 description              : ""
 url                      : https://iwinterknight.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "iwinterknight"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/sunit-singh-osu/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
