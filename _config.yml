@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Sunit Singh"
   pronouns         : "he/him"  
-  bio              : "Machine Learning Engineer with 6 years of full time work experience in building and deploying reliable machine learning systems. Proficient in cloud-based ML systems and building scalable serverless inference architectures. I am experienced in training / fine-tuning LLMs for downstream tasks in conversational AI and recommendation systems. I have worked extensively with MLOps methodologies and am hands-on with big data frameworks like Spark. Areas of Interest : Large Language Models (Development and Fine-tuning), Generative AI, Conversational AI, MLOps, Distributed System Design, Software Development."
+  bio              : "Machine Learning Engineer with 6 years of full time work experience in building and deploying reliable machine learning systems. Proficient in cloud-based ML systems such as dialogue agents and recommendation systems."
   location         : "Columbus, Ohio, USA"
   employer         : "Ohio State University"
   uri              : # URL
