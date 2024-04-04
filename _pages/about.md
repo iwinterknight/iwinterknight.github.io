@@ -30,7 +30,7 @@ Architected a novel cross-attention based network to generate summaries focusing
 
 🏘️**LLM-Prompting/ElasticSearch based Recommendation System** - Created an end-to-end property recommendation system using LLM prompting for dialogue with user, and ElasticSearch to generate recommendations based on user preferences captured through the dialogue with the system. [GitHub](https://github.com/iwinterknight/Property-Recommendation-System)
 
-🗄️**Comprehensive Study of Modern Data Analytics and Storage Engines** - Performed a detailed comparitive study of 10 state-of-the-art data analytics and storage engines used as commercial big data warehousing and data processing solutions. [Report](files/Comprehensive Study of Modern Big Data Storage and Analytics Platforms.pdf)
+🗄️**Comprehensive Study of Modern Data Analytics and Storage Engines** - Performed a detailed comparitive study of 10 state-of-the-art data analytics and storage engines used as commercial big data warehousing and data processing solutions. [Report (https://github.com/iwinterknight/iwinterknight.github.io/blob/master/files/DatabaseSystems)
 
 
 
