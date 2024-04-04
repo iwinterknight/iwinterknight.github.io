@@ -18,11 +18,11 @@ redirect_from:
 👨‍💼I'm looking for full-time work opportunities in the field of Machine Learning / Data Science from May 2024 !
 
 # Selected Experience
-🤖Co-led the university's team in the **Amazon Alexa Taskbot Challenge**. We developed a versatile and personalizable dialogue agent to assist users with Cooking & DIY tasks. We published our approach in the ACL/SIGDIAL 2023 conference [Publication](https://aclanthology.org/2023.sigdial-1.19/)
+🤖Research Associate at Ohio State University : Co-led the university's team in the **Amazon Alexa Taskbot Challenge**. We developed a versatile and personalizable dialogue agent to assist users with Cooking & DIY tasks. We published our approach in the ACL/SIGDIAL 2023 conference [Publication](https://aclanthology.org/2023.sigdial-1.19/)
 
-🏘️Created the **`Similar Homes` Recommendation System** at [Compass](https://www.compass.com/for-rent/manhattan-ny/) to recommend house listings to users based on their preferences. I developed a scorer model that was used in a Learning-to-Rank style pipeline to generate house recommendations.
+🏘️Senior Machine Learning Engineer at Compass : Created the **`Similar Homes` Recommendation System** at [Compass](https://www.compass.com/for-rent/manhattan-ny/) to recommend house listings to users based on their preferences. I developed a scorer model that was used in a Learning-to-Rank style pipeline to generate house recommendations.
 
-🧑🏻‍💼Created a **Sales Conversations Auto-Pilot** tool to assist sales agents drive sales conversations in a productive and streamlined manner. [Blog](https://www.salesken.ai/blog/signal-conversation-tracking)
+🧑🏻‍💼Senior Data Scientist at Salesken : Created a **Sales Conversations Auto-Pilot** tool to assist sales agents drive sales conversations in a productive and streamlined manner. [Blog](https://www.salesken.ai/blog/signal-conversation-tracking)
 
 # Projects
 🤖**RLHF summary generation** - Created a Reinforcement Learning from Human Feedback(RLHF) based text summarizer to remove toxic(offensive/bias) content from summaries. [GitHub](https://github.com/iwinterknight/RLHF-Summary-Detoxifier)
