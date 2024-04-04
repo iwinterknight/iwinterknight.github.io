@@ -28,7 +28,7 @@ redirect_from:
 🤖**RLHF summary generation** - Created a Reinforcement Learning from Human Feedback(RLHF) based text summarizer to remove toxic(offensive/bias) content from summaries. (https://github.com/iwinterknight/RLHF-Summary-Detoxifier)
 Architected a novel cross-attention based network to generate summaries focusing on questions asked from the passage. (https://github.com/iwinterknight/LLMs_Cross_Task_Colab)
 
-🏘️Created an end-to-end property recommendation system using LLM prompting for dialogue with user, and ElasticSearch to generate recommendations based on user preferences captured through the dialogue with the system. (https://github.com/iwinterknight/Property-Recommendation-System)
+🏘️Created an end-to-end property recommendation system using LLM prompting for dialogue with user, and ElasticSearch to generate recommendations based on user preferences captured through the dialogue with the system. <a name="https://github.com/iwinterknight/Property-Recommendation-System"></a>
 
 
 
