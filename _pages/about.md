@@ -13,7 +13,7 @@ redirect_from:
 
 🔬My research interests are parameter efficient fine-tuning techniques in LLMs.
 
-📚I'mn currently finishing my Master's Thesis on Task Oriented Dialogue Systems.
+📚I'm currently finishing my Master's Thesis on Task Oriented Dialogue Systems.
 
 👨‍💼I'm looking for full-time work opportunities in the field of Machine Learning / Data Science
 
