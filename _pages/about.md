@@ -11,11 +11,11 @@ redirect_from:
 ![Illustration of combining vision ad language modalities](/images/ai logo.jpg){: .align-right width="300px"}
 👨‍💻I'm a final year graduate student in Ohio State University's Computer Science department.
 
-🔬My research interests are parameter efficient fine-tuning techniques in LLMs.
+🔬My research interests are in Natural Language Processing and Content Recommendation Systems. I have worked extensively with parameter efficient fine-tuning techniques(PEFT) in LLMs for downstream tasks in dialogue agents, and representation learning.
 
 📚I'm currently finishing my Master's Thesis on Task Oriented Dialogue Systems.
 
-👨‍💼I'm looking for full-time work opportunities in the field of Machine Learning / Data Science
+👨‍💼I'm looking for full-time work opportunities in the field of Machine Learning / Data Science from May 2024 !
 
 # Selected Experience
 🤖Co-led the university's team in the **Amazon Alexa Taskbot Challenge**. We developed a versatile and personalizable dialogue agent to assist users with Cooking & DIY tasks. We published our approach in the ACL/SIGDIAL 2023 conference [Publication](https://aclanthology.org/2023.sigdial-1.19/)
