@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: _publications/2024-02-17-paper-title-number-4.md
+    url: /publications/
     
   - title: "CV"
     url: /files/Resume - Sunit Singh.pdf
