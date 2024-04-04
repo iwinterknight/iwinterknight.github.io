@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Illustration of combining vision ad language modalities](/images/favicon.ico){: .align-right width="300px"}
+![Illustration of combining vision ad language modalities](/images/ai logo.jpg){: .align-right width="300px"}
 👨‍💻I'm a final year graduate student in Ohio State University's Computer Science department.
 
 🔬My research interests are parameter efficient fine-tuning techniques in LLMs.
