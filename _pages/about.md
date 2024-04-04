@@ -1,300 +1,37 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Sunit Singh"
-title_separator          : "-"
-name                     : "Sunit Singh"
-description              : ""
-url                      : https://iwinterknight.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "Sunit.png"
-  name             : "Sunit Singh"
-  pronouns         : "he/him"  
-  bio              : "Machine Learning Engineer with 6 years of full time work experience in cloud-based ML"
-  location         : "Columbus, Ohio, USA"
-  employer         : "Ohio State University"
-  uri              : # URL
-  email            : "sunitsingh.bitsg@gmail.com" 
-
-  # Academic websites
-  github           : "iwinterknight"
-
-  # Social media
-  linkedin         : "sunit-singh-5025a331"
+---
+permalink: /
+title: "Hi there, I'm Sunit!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
-# # Site Settings
-# teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs              : false # true, false (default)
-# words_per_minute         : 160
-# future                   : true
-# read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-# talkmap_link             : false #change to true to add link to talkmap on talks page
-# comments:
-#   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-#   disqus:
-#     shortname            :
-#   discourse:
-#     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-#   facebook:
-#     appid                :
-#     num_posts            : # 5 (default)
-#     colorscheme          : # "light" (default), "dark"
-# staticman:
-#   allowedFields          : ['name', 'email', 'url', 'message']
-#   branch                 : "gh-pages" # "master", "gh-pages"
-#   commitMessage          : "New comment."
-#   filename               : comment-{@timestamp}
-#   format                 : "yml"
-#   moderation             : true
-#   path                   : "_data/comments/{options.slug}"
-#   requiredFields         : ['name', 'email', 'message']
-#   transforms:
-#     email                : "md5"
-#   generatedFields:
-#     date:
-#       type               : "date"
-#       options:
-#         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-# atom_feed:
-#   hide                   : false     # change to true to hide the RSS feed in the footer
-#   path                   : # blank (default) uses feed.xml
+![Illustration of combining vision ad language modalities](/images/ai logo.jpg){: .align-right width="300px"}
+👨‍💻I'm a final year graduate student in Ohio State University's Computer Science department.
+
+🔬My research interests are in Natural Language Processing and Content Recommendation Systems. I have worked extensively with parameter efficient fine-tuning techniques(PEFT) in LLMs for downstream tasks in dialogue agents, and representation learning.
+
+📚I'm currently finishing my Master's Thesis on Task Oriented Dialogue Systems.
+
+👨‍💼I'm looking for full-time work opportunities in the field of Machine Learning / Data Science from May 2024 !
+
+# Selected Experience
+🤖**Research Associate at Ohio State University** : Co-led the university's team in the **Amazon Alexa Taskbot Challenge**. We developed a versatile and personalizable dialogue agent to assist users with Cooking & DIY tasks. We published our approach in the ACL/SIGDIAL 2023 conference [Publication](https://aclanthology.org/2023.sigdial-1.19/)
+
+🏘️**Senior Machine Learning Engineer at Compass** : Created the **`Similar Homes` Recommendation System** at [Compass](https://www.compass.com/for-rent/manhattan-ny/) to recommend house listings to users based on their preferences. I developed a scorer model that was used in a Learning-to-Rank style pipeline to generate house recommendations.
+
+🧑🏻‍💼**Senior Data Scientist at Salesken** : Created a **Sales Conversations Auto-Pilot** tool to assist sales agents drive sales conversations in a productive and streamlined manner. [Blog](https://www.salesken.ai/blog/signal-conversation-tracking)
+
+# Projects
+🤖**RLHF summary generation** - Created a Reinforcement Learning from Human Feedback(RLHF) based text summarizer to remove toxic(offensive/bias) content from summaries. [GitHub](https://github.com/iwinterknight/RLHF-Summary-Detoxifier)
+Architected a novel cross-attention based network to generate summaries focusing on questions asked from the passage. [GitHub](https://github.com/iwinterknight/LLMs_Cross_Task_Colab)
+
+🏘️**LLM-Prompting/ElasticSearch based Recommendation System** - Created an end-to-end property recommendation system using LLM prompting for dialogue with user, and ElasticSearch to generate recommendations based on user preferences captured through the dialogue with the system. [GitHub](https://github.com/iwinterknight/Property-Recommendation-System)
+
+🗄️**Comprehensive Study of Modern Data Analytics and Storage Engines** - Performed a detailed comparitive study of 10 state-of-the-art data analytics and storage engines used as commercial big data warehousing and data processing solutions. [Report](/files/DatabaseSystems.pdf)
 
 
-# # SEO Related
-# google_site_verification :
-# bing_site_verification   :
-# alexa_site_verification  :
-# yandex_site_verification :
 
 
-# # Social Sharing
-# twitter:
-#   username               : &twitter
-# facebook:
-#   username               :
-#   app_id                 :
-#   publisher              :
-# og_image                 :  # Open Graph/Twitter default site image
-# # For specifying social profiles
-# # - https://developers.google.com/structured-data/customize/social-profiles
-# social:
-#   type                   : # Person or Organization (defaults to Person)
-#   name                   : # If the user or organization name differs from the site's name
-#   links: # An array of links to social media profiles
-
-
-# # Analytics
-# analytics:
-#   provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-#   google:
-#     tracking_id          :
-
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
