@@ -20,7 +20,7 @@ redirect_from:
 # Selected Experience
 🤖Co-led the university's team in the **Amazon Alexa Taskbot Challenge**. We developed a versatile and personalizable dialogue agent to assist users with Cooking & DIY tasks. We published our approach in the ACL/SIGDIAL 2023 conference [Publication](https://aclanthology.org/2023.sigdial-1.19/)
 
-🏘️Created the **`Similar Homes` Recommendation System** at Compass to recommend house listings to users based on their preferences. I developed a scorer model that was used in a Learning-to-Rank style pipeline to generate house recommendations.
+🏘️Created the **`Similar Homes` Recommendation System** at [Compass](https://www.compass.com/) to recommend house listings to users based on their preferences. I developed a scorer model that was used in a Learning-to-Rank style pipeline to generate house recommendations.
 
 🧑🏻‍💼Created a **Sales Conversations Auto-Pilot** tool to assist sales agents drive sales conversations in a productive and streamlined manner. [GitHub](https://www.salesken.ai/blog/signal-conversation-tracking)
 
