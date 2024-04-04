@@ -22,7 +22,7 @@ redirect_from:
 
 🏘️Created the **`Similar Homes` Recommendation System** at [Compass](https://www.compass.com/) to recommend house listings to users based on their preferences. I developed a scorer model that was used in a Learning-to-Rank style pipeline to generate house recommendations.
 
-🧑🏻‍💼Created a **Sales Conversations Auto-Pilot** tool to assist sales agents drive sales conversations in a productive and streamlined manner. [GitHub](https://www.salesken.ai/blog/signal-conversation-tracking)
+🧑🏻‍💼Created a **Sales Conversations Auto-Pilot** tool to assist sales agents drive sales conversations in a productive and streamlined manner. [Blog](https://www.salesken.ai/blog/signal-conversation-tracking)
 
 # Projects
 🤖**RLHF summary generation** - Created a Reinforcement Learning from Human Feedback(RLHF) based text summarizer to remove toxic(offensive/bias) content from summaries. [GitHub](https://github.com/iwinterknight/RLHF-Summary-Detoxifier)
