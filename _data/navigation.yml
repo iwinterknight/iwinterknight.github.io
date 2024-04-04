@@ -1,8 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /_publications/paper-1.md
-    url: /_publications/paper-2.md
+    url: /_publications/
     
   - title: "CV"
     url: /files/Resume - Sunit Singh.pdf
