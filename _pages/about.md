@@ -41,13 +41,13 @@ _Check out my certifications! I am always learning!!_
 
 📖 **Natural Language Processing in TensorFlow** - DeepLearning.ai [Certificate](/files/nlp_in_tensorflow.pdf)
 
-📖 **Neural Networks for Machine Learning** - University of Toronto [Certificate](/files/neural_networks_in_ml.pdf)
-
-📖 **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** - DeepLearning.ai [Certificate](/files/intro_to_tf.pdf)
-
 📖 **Deep Learning Specialization** - DeepLearning.ai [Certificate](/files/deep_learning_specialization.pdf)
 
-📖 **Transfer Learning for NLP with TensorFlow Hub** - Coursera [Certificate](/files/transfer_learning_tfhub.pdf)
+📖 **Neural Networks for Machine Learning** - University of Toronto [Certificate](/files/neural_networks_in_ml.pdf)
+
+📖 **Transfer Learning for NLP with TensorFlow Hub** - Coursera [Certificate](/files/transfer_learning_tfhub.pdf)📖 **Transfer Learning for NLP with TensorFlow Hub** - Coursera [Certificate](/files/transfer_learning_tfhub.pdf)
+
+📖 **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** - DeepLearning.ai [Certificate](/files/intro_to_tf.pdf)
 
 📖 **Machine Learning Foundations: A Case Study Approach** - University of Washington [Certificate](/files/ml_foundations.pdf)
 
