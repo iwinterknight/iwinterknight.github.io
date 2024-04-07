@@ -35,13 +35,21 @@ Architected a novel cross-attention based network to generate summaries focusing
 # Courses and Certifications
 _Check out my certifications! I am always learning!!_
 📖 **AWS Cloud Technical Essentials** - AWS [Certificate](https://coursera.org/share/5fca237b7c7400c97aad8745162c9c29)
+
 📖 **Generative AI with Large Language Models** - DeepLearning.ai [Certificate](https://coursera.org/share/1c02e8019b8de5d2a2c8cb87f020e5ee)
+
 📖 **Natural Language Processing in TensorFlow** - DeepLearning.ai [Certificate](https://coursera.org/share/0985c7ae4be0fc269d5a2a7a7a0b22cc)
+
 📖 **Neural Networks for Machine Learning** - University of Toronto [Certificate](https://coursera.org/share/438901408a9758270193887019f8e0ff)
+
 📖 **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** - DeepLearning.ai [Certificate](https://coursera.org/share/be377a5548b24daadbba4989e5cc17b9)
+
 📖 **Deep Learning Specialization** - DeepLearning.ai [Certificate](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
+
 📖 **Transfer Learning for NLP with TensorFlow Hub** - Coursera [Certificate](https://coursera.org/share/2a7e3b0a7050eafabd4c3879c0a0922f)
+
 📖 **Siamese Network with Triplet Loss in Keras** - Coursera [Certificate](https://coursera.org/share/38224bbea614c33a57f26dcfc14fb680)
+
 📖 **Sentiment Analysis with Deep Learning using BERT** - Coursera [Certificate](https://coursera.org/share/942e8318b8e6b0374f96a93bf7bcb183)
 
 
