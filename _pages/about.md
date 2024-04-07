@@ -34,6 +34,7 @@ Architected a novel cross-attention based network to generate summaries focusing
 
 # Courses and Certifications
 _Check out my certifications! I am always learning!!_
+
 📖 **AWS Cloud Technical Essentials** - AWS [Certificate](https://coursera.org/share/5fca237b7c7400c97aad8745162c9c29)
 
 📖 **Generative AI with Large Language Models** - DeepLearning.ai [Certificate](https://coursera.org/share/1c02e8019b8de5d2a2c8cb87f020e5ee)
