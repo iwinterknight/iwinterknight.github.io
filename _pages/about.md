@@ -11,7 +11,7 @@ redirect_from:
 ![Illustration of combining vision ad language modalities](/images/ai logo.jpg){: .align-right width="300px"}
 👨‍💻I'm a final year graduate student in Ohio State University's Computer Science department.
 
-🔬My research interests are in Natural Language Processing and Content Recommendation Systems. I have worked extensively with parameter efficient fine-tuning techniques(PEFT) in LLMs for downstream tasks in dialogue agents, and representation learning.
+🔬My research interests are in Natural Language Processing and Content Recommendation Systems. I have worked extensively with parameter efficient fine-tuning techniques(PEFT) in LLMs for downstream tasks in dialogue systems, and representation learning.
 
 📚I'm currently finishing my Master's Thesis on Task Oriented Dialogue Systems.
 
