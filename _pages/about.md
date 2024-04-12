@@ -39,6 +39,8 @@ _Check out my certifications! I am always learning!!_
 
 📖 **Generative AI with Large Language Models** - DeepLearning.ai [Certificate](/files/generative_ai_certificate.pdf)
 
+📖 **Introduction to Retrieval Augmented Generation (RAG)** - Duke University [Certificate](/files/intro_to_rag.pdf)
+
 📖 **Natural Language Processing in TensorFlow** - DeepLearning.ai [Certificate](/files/nlp_in_tensorflow.pdf)
 
 📖 **Deep Learning Specialization** - DeepLearning.ai [Certificate](/files/deep_learning_specialization.pdf)
