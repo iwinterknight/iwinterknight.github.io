@@ -13,7 +13,7 @@ redirect_from:
 
 🔬My research interests are in Natural Language Processing and Content Recommendation Systems. I have worked extensively with parameter efficient fine-tuning techniques(PEFT) in LLMs for downstream tasks in dialogue systems, and representation learning.
 
-📚<code style="color : red">Check out my Master's Thesis on Task Oriented Dialogue Systems [here](/files/Sunit Singh - Master's Project Report.pdf).</code>
+📚Check out my Master's Thesis on Task Oriented Dialogue Systems [here](/files/Sunit Singh - Master's Project Report.pdf).
 
 👨‍💼I'm looking for full-time work opportunities in the field of Machine Learning / Data Science from May 2024 !
 
