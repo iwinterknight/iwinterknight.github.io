@@ -41,6 +41,8 @@ _Check out my certifications! I am always learning!!_
 
 📖 **Introduction to Retrieval Augmented Generation (RAG)** - Duke University [Certificate](/files/intro_to_rag.pdf)
 
+📖 **Building and Evaluating Advanced RAG** - Short course by DeepLearning.ai [Accomplishment](https://learn.deeplearning.ai/accomplishments/ad913ae2-c76e-44e4-93b8-9c2c0a4249df)
+
 📖 **Natural Language Processing in TensorFlow** - DeepLearning.ai [Certificate](/files/nlp_in_tensorflow.pdf)
 
 📖 **Deep Learning Specialization** - DeepLearning.ai [Certificate](/files/deep_learning_specialization.pdf)
