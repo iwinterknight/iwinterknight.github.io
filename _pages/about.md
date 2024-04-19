@@ -25,6 +25,9 @@ redirect_from:
 🧑🏻‍💼**Senior Data Scientist at Salesken** : Created a **Sales Conversations Auto-Pilot** tool to assist sales agents drive sales conversations in a productive and streamlined manner. [Blog](https://www.salesken.ai/blog/signal-conversation-tracking)
 
 # Projects
+
+📚**Knowledge Distillation for Dialogue QA** - Trained a specialist LLM model using knowledge distillation from open-source GPT 3.5 (ChatGPT) on task related QA dataset. Built RAG pipelines using `Parent Document Retriever` and `Contextual Compression Retriever` and performed TruLens evaluation for the RAG Triads(context relevance, groundedness and answer relevance) [GitHub](https://github.com/iwinterknight/Knowledge-Distillation-for-Dialogues-QA)
+
 🤖**RLHF summary generation** - Created a Reinforcement Learning from Human Feedback(RLHF) based text summarizer to remove toxic(offensive/bias) content from summaries. [GitHub](https://github.com/iwinterknight/RLHF-Summary-Detoxifier)
 Architected a novel cross-attention based network to generate summaries focusing on questions asked from the passage. [GitHub](https://github.com/iwinterknight/LLMs_Cross_Task_Colab)
 
