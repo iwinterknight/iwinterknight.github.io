@@ -18,6 +18,8 @@ redirect_from:
 👨‍💼I'm looking for full-time work opportunities in the field of Machine Learning / Data Science from May 2024 !
 
 # Selected Experience
+🧑🏻‍💼**Machine Learning Engineer at Orbit Systems** : Created the NER-Engine to classify and annotate news articles with entities indicating useful leads for JobsOhio to approach businesses looking to invest and expand operations. Designed and developed asynchronous architecture using Apache Kafka to prompt large language model(GPT-4o) in a parallelized event micro-batching approach to tag continuous stream of scraped articles.
+
 🤖**Research Associate at Ohio State University** : Co-led the university's team in the **Amazon Alexa Taskbot Challenge**. We developed a versatile and personalizable dialogue agent, hosted on AWS and deployed as an Alexa Skill, to assist users with Cooking & DIY tasks. We published our approach in the ACL/SIGDIAL 2023 conference [Publication](https://aclanthology.org/2023.sigdial-1.19/), [Github](https://github.com/iwinterknight/TacoBot)
 
 🏘️**Senior Machine Learning Engineer at Compass** : Created the **`Similar Homes` Recommendation System** at [Compass](https://www.compass.com/for-rent/manhattan-ny/) to recommend house listings to users based on their preferences. I developed a scorer model that was used in a Learning-to-Rank style pipeline to generate house recommendations.
