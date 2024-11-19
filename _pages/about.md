@@ -15,8 +15,6 @@ redirect_from:
 
 📚Check out my Master's Thesis on Task Oriented Dialogue Systems [here](/files/Sunit Singh - Master's Project Report.pdf).
 
-👨‍💼I'm looking for full-time work opportunities in the field of Machine Learning / Data Science from May 2024 !
-
 # Selected Experience
 🧑🏻‍💼**Machine Learning Engineer at Orbit Systems** : Created the NER-Engine to classify and annotate news articles with entities indicating useful leads for JobsOhio to approach businesses looking to invest and expand operations. Designed and developed asynchronous architecture using Apache Kafka to prompt large language model(GPT-4o) in a parallelized event micro-batching approach to tag continuous stream of scraped articles.
 
