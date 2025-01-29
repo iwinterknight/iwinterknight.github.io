@@ -9,9 +9,9 @@ redirect_from:
 
 
 ![Illustration of combining vision ad language modalities](/images/ai logo.jpg){: .align-right width="300px"}
-👨‍💻I'm a final year graduate student in Ohio State University's Computer Science department. Prior to this, I have **6 years of full-time work experience** in Machine Learning and Data Science roles.
+👨‍💻I'm a Machine Learning Engineer with **7 years of full-time work experience** in Machine Learning, Natural Language Processing and Data Science. I graduated with my Master's in Computer Science from Ohio State University in 2024, wherein my research focus was conversational AI. My highlight projects during grad school are in Distributed Systems and Advanced Database Systems. 
 
-🔬My research interests are in Natural Language Processing and Content Recommendation Systems. I have worked extensively with parameter efficient fine-tuning techniques(PEFT) in LLMs for downstream tasks in dialogue systems, and representation learning.
+🔬I have demonstrable experoence in Natural Language Processing and Content Recommendation Systems. With the advent of LLMs and their use in resource constraint environments, I focused on parameter efficient fine-tuning techniques(PEFT) in LLMs for downstream tasks in dialogue systems, and representation learning. This efficiently helped apply the domain specific knowledge of LLMs to a single task/multi task setting.
 
 📚Check out my Master's Thesis on Task Oriented Dialogue Systems [here](/files/Sunit Singh - Master's Project Report.pdf).
 
